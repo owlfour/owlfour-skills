@@ -1,7 +1,6 @@
 ---
 name: oas-commit
 description: 英文 commit：分析暂存区改动，生成 conventional commit 格式的提交信息
-allowed-tools: Bash, Read, Grep
 ---
 # OAS Commit Skill
 生成符合仓库规范的英文 git commit message 并提交。
